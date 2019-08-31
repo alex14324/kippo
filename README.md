@@ -10,11 +10,6 @@ Kippo is inspired, but not based on [Kojoney](http://kojoney.sourceforge.net/).
 
 Some interesting logs from a live Kippo installation below (viewable within a web browser with the help of Ajaxterm). Note that some commands may have been improved since these logs were recorded.
 
-  * [2009-11-22](http://kippo.rpg.fi/playlog/?l=20091122-075013-5055.log)
-  * [2009-11-23](http://kippo.rpg.fi/playlog/?l=20091123-003854-3359.log)
-  * [2009-11-23](http://kippo.rpg.fi/playlog/?l=20091123-012814-626.log)
-  * [2010-03-16](http://kippo.rpg.fi/playlog/?l=20100316-233121-1847.log)
-
 ## Features
 
 Some interesting features:
@@ -59,9 +54,6 @@ Files of interest:
 * honeyfs/ - file contents for the fake filesystem - feel free to copy a real system here
 
 ## Is it secure?
-
-Maybe. See [FAQ](https://github.com/desaster/kippo/wiki/FAQ)
-
+Maybe
 ## I have some questions!
 
-I ~~am~~ _might be_ reachable via e-mail: *desaster* at *gmail* dot *com*, or as *desaster* on the *#honeypots* channel in the *freenode* IRC network.
